@@ -1,0 +1,20 @@
+body{
+    margin:0px;
+}
+.navi ul{
+    list-style-type:none;
+    margin:0px;
+    background-color:brown;
+    display:flex;
+    align-items:right;
+    justify-content:right;
+}
+.navi a{
+    text-decoration:none;
+    color:thistle;
+    padding:5px;
+    margin:5px;
+}
+.navi a:hover{
+    background-color:lightcoral;
+}
